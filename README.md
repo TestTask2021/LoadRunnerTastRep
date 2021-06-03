@@ -9,3 +9,4 @@ try
 final
 rewetwrtwe
 LRString
+emojis
