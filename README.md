@@ -1,5 +1,2 @@
 first line
-
-
-restart
-again
+new line
