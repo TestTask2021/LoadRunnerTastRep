@@ -1,3 +1,2 @@
-test
-new string from test
+first line
 
